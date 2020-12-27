@@ -10,7 +10,7 @@ Hackintosh with open-core bootloader
 ![Photo](Docs/Desktop.png)
 ![Photo](Docs/Hackintool.png)
 # Hardware:
-- Case: LIAN-LI ITX 
+- Case: LIAN-LI TU150WA Mini-ITX Case
 - Intel i5-10600k
 - AsRock Z490 itx/ac:
 	- Audio: Realtek ALC1200
@@ -24,7 +24,7 @@ Hackintosh with open-core bootloader
 - NZXT M22 water cooler 120mm
  
 # BIOS-Settings: 
-- Come-Soon 
+- Come-Soon!
 
 # What works:
 - [x] All-Motherboard Features(Ethernet-Ports,USB-Layout...)
