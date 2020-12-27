@@ -57,7 +57,7 @@ https://www.amazon.de/-/en/Hac…-Continuity/dp/B083YXS7VF
 # Photos from the setup: 
 ![Photo](Docs/Lian-Li_1.jpg)
 ![Photo](Docs/Lian-Li_2.jpg)
-![Photo](Docs/NZXT.jpg)
+![Photo](Docs/Nzxt.jpg)
 
 
 # Links
