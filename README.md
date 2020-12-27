@@ -51,12 +51,14 @@ https://www.amazon.de/-/en/Hac…-Continuity/dp/B083YXS7VF
 - SMCProcessor.kext
 - SMCSuperIO.kext
 - VirtualSMC.kext
-- WhateverGreen.kext
+- WhateverGreen.kext‚‚
 
 
 # Photos from the setup: 
-![Photo](Docs/Lian-Li._1.jpg)
+![Photo](Docs/Lian-Li_1.jpg)
 ![Photo](Docs/Lian-Li_2.jpg)
+![Photo](Docs/NZXT.jpg)
+
 
 # Links
 - https://www.hackintosh-forum.de/forum/thread/48885-guide-msi-meg-z490i-unify-x-igor-slab-kooperation/
