@@ -24,7 +24,17 @@ Hackintosh with open-core bootloader
 - NZXT M22 water cooler 120mm
  
 # BIOS-Settings: 
-- Come-Soon!
+Disable:
+- Fast Boot
+- Secure Boot
+- CSM Support
+- Intel Platform Trust
+- INTEL SGX 
+- VT-d
+. CFG- Lock 
+
+Enable:
+- Internal Graphics
 
 # What works:
 - [x] All-Motherboard Features(Ethernet-Ports,USB-Layout...)
