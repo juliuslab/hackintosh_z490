@@ -31,9 +31,10 @@ Disable:
 - Intel Platform Trust
 - INTEL SGX 
 - VT-d
-. CFG- Lock 
+. CFG-Lock 
 
 Enable:
+- XHCI Handoff
 - Internal Graphics
 
 # What works:
@@ -61,7 +62,7 @@ https://www.amazon.de/-/en/Hac…-Continuity/dp/B083YXS7VF
 - SMCProcessor.kext
 - SMCSuperIO.kext
 - VirtualSMC.kext
-- WhateverGreen.kext‚‚
+- WhateverGreen.kext
 
 
 # Photos from the setup: 
