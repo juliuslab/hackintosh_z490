@@ -62,5 +62,3 @@ https://www.amazon.de/-/en/Hac…-Continuity/dp/B083YXS7VF
 
 # Links
 - https://www.hackintosh-forum.de/forum/thread/48885-guide-msi-meg-z490i-unify-x-igor-slab-kooperation/
-
-- https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-AsRock-Z490-Phantom-ITX-TB3
