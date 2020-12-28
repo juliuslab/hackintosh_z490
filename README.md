@@ -34,7 +34,7 @@ Hackintosh with open-core bootloader
 - [x] Restart/Shutdown 
 - [x] Printer 
 - [x] All-Motherboard Features(Ethernet-Ports,USB-Layout...)
-- [x] Blueetoh with Dongle 
+- [x] Bluetooth with Dongle 
 - [x] Multiboot (Windows 10) 
 
 # What not works:
