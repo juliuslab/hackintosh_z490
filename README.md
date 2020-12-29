@@ -2,10 +2,9 @@
 # Hackintosh-asrock-z490-itx/ac
 Hackintosh with open-core bootloader 
 - Big Sur 11.1 
-- Model Name:	iMac Pro
+- Model Name: iMac Pro
 - Model Identifier:iMacPro1,1
 
- 
 ![Photo](Docs/Big-Sur-Version.png)
 ![Photo](Docs/geekbench.png)
 ![Photo](Docs/Desktop.png)
@@ -32,7 +31,7 @@ Disable:
 - Intel Platform Trust
 - INTEL SGX 
 - VT-d
-. CFG-Lock 
+- CFG-Lock 
 
 Enable:
 - XHCI Handoff
