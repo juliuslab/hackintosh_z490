@@ -7,8 +7,8 @@ Hackintosh with open-core bootloader
 
  
 ![Photo](Docs/Big-Sur-Version.png)
-![Photo](Docs/Desktop.png)
 ![Photo](Docs/geekbench.png)
+![Photo](Docs/Desktop.png)
 ![Photo](Docs/Hackintool.png)
 # Hardware:
 - Case: LIAN-LI TU150WA Mini-ITX Case
