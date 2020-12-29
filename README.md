@@ -46,7 +46,7 @@ Enable:
 - [x] Restart/Shutdown 
 - [x] Printer 
 - [x] All-Motherboard Features(Ethernet-Ports,USB-Layout...)
-- [x] Bluetooth with Dongle 
+- [x] Bluetooth 
 - [x] Multiboot (Windows 10) 
 
 # What not works:
