@@ -25,7 +25,18 @@ Hackintosh with open-core bootloader
 - NZXT M22 water cooler 120mm
  
 # BIOS-Settings: 
-- Come-Soon!
+Disable:
+- Fast Boot
+- Secure Boot
+- CSM Support
+- Intel Platform Trust
+- INTEL SGX 
+- VT-d
+. CFG-Lock 
+
+Enable:
+- XHCI Handoff
+- Internal Graphics
 
 # What works:
 - [x] All-Motherboard Features(Ethernet-Ports,USB-Layout...)
@@ -35,7 +46,7 @@ Hackintosh with open-core bootloader
 - [x] Restart/Shutdown 
 - [x] Printer 
 - [x] All-Motherboard Features(Ethernet-Ports,USB-Layout...)
-- [x] Blueetoh with Dongle 
+- [x] Bluetooth with Dongle 
 - [x] Multiboot (Windows 10) 
 
 # What not works:
@@ -52,7 +63,7 @@ https://www.amazon.de/-/en/Hac…-Continuity/dp/B083YXS7VF
 - SMCProcessor.kext
 - SMCSuperIO.kext
 - VirtualSMC.kext
-- WhateverGreen.kext‚‚
+- WhateverGreen.kext
 
 
 # Photos from the setup: 
@@ -63,5 +74,3 @@ https://www.amazon.de/-/en/Hac…-Continuity/dp/B083YXS7VF
 
 # Links
 - https://www.hackintosh-forum.de/forum/thread/48885-guide-msi-meg-z490i-unify-x-igor-slab-kooperation/
-
-- https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-AsRock-Z490-Phantom-ITX-TB3
