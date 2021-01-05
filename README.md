@@ -9,6 +9,8 @@ Hackintosh with open-core bootloader
 ![Photo](Docs/geekbench.png)
 ![Photo](Docs/Desktop.png)
 ![Photo](Docs/Hackintool.png)
+![Photo](Docs/Ethernet_2.5Gbit_Settings.png)
+
 # Hardware:
 - Case: LIAN-LI TU150WA Mini-ITX Case
 - Intel i5-10600k
