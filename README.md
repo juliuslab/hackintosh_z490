@@ -66,12 +66,22 @@ https://www.amazon.de/-/en/Hac…-Continuity/dp/B083YXS7VF
 - VirtualSMC.kext
 - WhateverGreen.kext
 
-
 # Photos from the setup: 
 ![Photo](Docs/Lian-Li_1.jpg)
 ![Photo](Docs/Lian-Li_2.jpg)
 ![Photo](Docs/Nzxt.jpg)
 
+# Update-Notes 
+- Mount EFI, create backup, save on USB stick (MS-DOS(Fat32) MBR: Master Boot Record)
+- Download OpenCore Update (with Kext Updater)
+- Read the changelog - if necessary, download EFI Drivers (Kext Updater)
+- Update Kexts (Kext Updater)
+- OK, driver, kexts in the EFI folder of the USB stick
+- Compare user config.plist with Sample.plist (OCConfig Compare 3,4,5)
+- Missing / Divorced / Deleted entries heard from Sample.plist in config.plist
+- save the config, boot from the stick.
+- Copy the config from stick to your efi-partion 
+- Restart your system 
 
 # Links
 - https://www.hackintosh-forum.de/forum/thread/48885-guide-msi-meg-z490i-unify-x-igor-slab-kooperation/
