@@ -76,8 +76,8 @@ https://www.amazon.de/-/en/Hac…-Continuity/dp/B083YXS7VF
 
 | Name| Description | Link |
 | --------------- | --------------- | --------------- |
-| Kex-Updater| update Kext,Drivers,and Open-Core| https://www.sl-soft.de/kext-updater/|
-| Hackintool| tool for edit and view system-settings,ubs-laylouts,disks....| https://github.com/headkaze/Hackintool/releases/tag/3.4.9 |
+| Kext-Updater| update Kexts,Drivers,and Open-Core| https://www.sl-soft.de/kext-updater/|
+| Hackintool| tool for edit and view system-settings,ubs-layouts,disks....| https://github.com/headkaze/Hackintool/releases/tag/3.4.9 |
 | P-List Editor| view and edit .plist files| https://apps.apple.com/de/app/plist-editor/id1157491961?mt=12  |
 | OC-Config Compare| compare .plist files| https://github.com/corpnewt/OCConfigCompare|
 
@@ -90,18 +90,6 @@ https://www.amazon.de/-/en/Hac…-Continuity/dp/B083YXS7VF
 - Compare user config.plist with Sample.plist (OCConfig Compare 3,4,5)
 - Missing / Divorced / Deleted entries heard from Sample.plist in config.plist
 - Save the config, Boot from the stick
-- Copy the config from stick to your efi-partion 
-- Restart your system 
-
-# Update-Notes 
-- Mount EFI, create backup, save on USB stick (MS-DOS(Fat32) MBR: Master Boot Record)
-- Download OpenCore Update (with Kext Updater)
-- Read the changelog - if necessary, download EFI Drivers (Kext Updater)
-- Update Kexts (Kext Updater)
-- OK, driver, kexts in the EFI folder of the USB stick
-- Compare user config.plist with Sample.plist (OCConfig Compare 3,4,5)
-- Missing / Divorced / Deleted entries heard from Sample.plist in config.plist
-- save the config, boot from the stick.
 - Copy the config from stick to your efi-partion 
 - Restart your system 
 
