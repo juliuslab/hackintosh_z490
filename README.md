@@ -80,6 +80,7 @@ https://www.amazon.de/-/en/Hac…-Continuity/dp/B083YXS7VF
 | Hackintool| tool for edit and view system-settings,ubs-layouts,disks....| https://github.com/headkaze/Hackintool/releases/tag/3.4.9 |
 | P-List Editor| view and edit .plist files| https://apps.apple.com/de/app/plist-editor/id1157491961?mt=12  |
 | OC-Config Compare| compare .plist files| https://github.com/corpnewt/OCConfigCompare|
+| Intel Power Gadget| monitoring CPU-Data|https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html |
 
 # Update-Notes 
 - Mount EFI, create backup, save on USB stick (MS-DOS(Fat32) MBR: Master Boot Record)
