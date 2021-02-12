@@ -1,7 +1,7 @@
 
 # Hackintosh-asrock-z490-itx/ac
 Hackintosh with open-core bootloader 
-- Big Sur 11.1 
+- Big Sur 11.2
 - Model Name: iMac Pro
 - Model Identifier:iMacPro1,1
 
